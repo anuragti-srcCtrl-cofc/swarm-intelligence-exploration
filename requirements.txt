@@ -1,0 +1,5 @@
+# Swarm Intelligence Exploration — dependencies
+# Install with:  pip install -r requirements.txt
+
+pygame>=2.6.0
+numpy>=1.26.0
